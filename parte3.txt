@@ -1,0 +1,5 @@
+1- a maior dificuldade em em relação ao it a ser utilizado. O que acabou gerando um retrabalho, pois um membro da nossa dupla esqueceu a parte do cíclico, o que acabou gerando um grande retrabalho da nossa parte durante o processo de desenvolvimento
+
+2- dois ponto principais podem ser destacados aqui. O primeiro diz respeito a velocidade com que foram feitas as aulas da segunda parte do curso, ficaram bem corridas e acredito que não foi tirado todo o proveito dessa parte. A segunda se refere a parte de paginação, que por mais que tenha sido estudado antes, teve um grande impacto dentro do curso
+
+3- foi mudado principalmente a parte que direciona a alocação. "Aloca while" em que mudamos ao invés de começar a buscar pela "parada", percorremos toda a heap salvando o endereço com maior número de bytes disponível para alocação
